@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Staging</string>
+    <string name="title_activity_main">Staging</string>
+    <string name="package_name">com.carawintech.staging</string>
+    <string name="custom_url_scheme">com.carawintech.staging</string>
+    <string name="back_to_exit">Ek baar aur back dabao app band karne ke liye</string>
+</resources>
