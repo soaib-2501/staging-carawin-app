@@ -3,7 +3,7 @@
   "appName": "Staging",
   "webDir": "dist",
   "server": {
-    "url": "https://staging.aicos.carawintech.com",
+    "url": "https://staging-aicos.carawintech.com",
     "cleartext": false,
     "androidScheme": "https"
   },
